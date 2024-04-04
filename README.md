@@ -3,7 +3,8 @@
 > 멋쟁이 사자처럼 세미나 행사 티켓팅 앱 : TECH!ting
 > 
 
-![Untitled](TECH!ting%20%E1%84%90%E1%85%A6%E1%84%8F%E1%85%B5%E1%86%BA%E1%84%90%E1%85%B5%E1%86%BC%20%E1%84%89%E1%85%A9%E1%84%87%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%A2%E1%86%B8%20md%20eae26cd5022242c182909de0739a1488/Untitled.png)
+![Untitled](https://github.com/chasomin/TECH-ting/assets/114223423/bdcee626-18bd-4c40-8e03-116db395eceb)
+
 
 🎉 멋쟁이 사자처럼에서 여러가지 세미나를 진행합니다! 🎉  우리 멋진 아기 사자여러분도 멋사 세미나를 듣고 싶으시죠?  
 
@@ -54,50 +55,44 @@ Hoxy.. 세미나에서 여러 사람들 앞에서 손 들고 질문하기 부끄
 
 ### 1. 메인화면
 
-![ezgif.com-gif-maker-1.gif](TECH!ting%20%E1%84%90%E1%85%A6%E1%84%8F%E1%85%B5%E1%86%BA%E1%84%90%E1%85%B5%E1%86%BC%20%E1%84%89%E1%85%A9%E1%84%87%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%A2%E1%86%B8%20md%20eae26cd5022242c182909de0739a1488/ezgif.com-gif-maker-1.gif)
+<img src="https://github.com/chasomin/TECH-ting/assets/114223423/8dd95a28-06b1-4819-adec-a86d82c4e91c" width=200>
 
-![ezgif.com-gif-maker-2.gif](TECH!ting%20%E1%84%90%E1%85%A6%E1%84%8F%E1%85%B5%E1%86%BA%E1%84%90%E1%85%B5%E1%86%BC%20%E1%84%89%E1%85%A9%E1%84%87%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%A2%E1%86%B8%20md%20eae26cd5022242c182909de0739a1488/ezgif.com-gif-maker-2.gif)
+<img src="https://github.com/chasomin/TECH-ting/assets/114223423/b55bf0f8-11a5-4b28-ae4a-f822f73d0c4d" width=200>
 
-![ezgif.com-gif-maker-3.gif](TECH!ting%20%E1%84%90%E1%85%A6%E1%84%8F%E1%85%B5%E1%86%BA%E1%84%90%E1%85%B5%E1%86%BC%20%E1%84%89%E1%85%A9%E1%84%87%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%A2%E1%86%B8%20md%20eae26cd5022242c182909de0739a1488/ezgif.com-gif-maker-3.gif)
+<img src="https://github.com/chasomin/TECH-ting/assets/114223423/bd9d3b84-13b8-470f-9e3b-3bb93f542085" width=200>
+
 
 ### 2. 메인 화면 우측 상단의 큐알 아이콘의 버튼을 통해 전체 테킷팅 확인 가능
 
-![ezgif.com-gif-maker-4.gif](TECH!ting%20%E1%84%90%E1%85%A6%E1%84%8F%E1%85%B5%E1%86%BA%E1%84%90%E1%85%B5%E1%86%BC%20%E1%84%89%E1%85%A9%E1%84%87%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%A2%E1%86%B8%20md%20eae26cd5022242c182909de0739a1488/ezgif.com-gif-maker-4.gif)
+<img src="https://github.com/chasomin/TECH-ting/assets/114223423/8cfd3ad1-e438-4fa9-8ffc-87b50791facf" width=200>
+
 
 ### 3. 세미나 일정 탭
 
-![ezgif.com-gif-maker-5.gif](TECH!ting%20%E1%84%90%E1%85%A6%E1%84%8F%E1%85%B5%E1%86%BA%E1%84%90%E1%85%B5%E1%86%BC%20%E1%84%89%E1%85%A9%E1%84%87%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%A2%E1%86%B8%20md%20eae26cd5022242c182909de0739a1488/ezgif.com-gif-maker-5.gif)
+<img src="https://github.com/chasomin/TECH-ting/assets/114223423/e841f848-f5cb-47a0-a4ef-fd0edc3ef1d0" width=200>
+
 
 ### 4. 세미나 상세 보기
 
-![ezgif.com-gif-maker-6.gif](TECH!ting%20%E1%84%90%E1%85%A6%E1%84%8F%E1%85%B5%E1%86%BA%E1%84%90%E1%85%B5%E1%86%BC%20%E1%84%89%E1%85%A9%E1%84%87%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%A2%E1%86%B8%20md%20eae26cd5022242c182909de0739a1488/ezgif.com-gif-maker-6.gif)
+<img src="https://github.com/chasomin/TECH-ting/assets/114223423/e823b339-b623-4e8e-8f4a-808306f25513" width=200>
+
 
 ### 5. 마이페이지 탭 뷰 / 회원정보 수정하기
 
-![ezgif.com-gif-maker-8.gif](TECH!ting%20%E1%84%90%E1%85%A6%E1%84%8F%E1%85%B5%E1%86%BA%E1%84%90%E1%85%B5%E1%86%BC%20%E1%84%89%E1%85%A9%E1%84%87%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%A2%E1%86%B8%20md%20eae26cd5022242c182909de0739a1488/ezgif.com-gif-maker-8.gif)
+<img src="https://github.com/chasomin/TECH-ting/assets/114223423/e4520fa0-7726-4e73-9e62-32a9650a107c" width=200>
+
 
 ### 로그아웃
 
-![ezgif.com-gif-maker-9.gif](TECH!ting%20%E1%84%90%E1%85%A6%E1%84%8F%E1%85%B5%E1%86%BA%E1%84%90%E1%85%B5%E1%86%BC%20%E1%84%89%E1%85%A9%E1%84%87%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%A2%E1%86%B8%20md%20eae26cd5022242c182909de0739a1488/ezgif.com-gif-maker-9.gif)
+<img src="https://github.com/chasomin/TECH-ting/assets/114223423/205b8c3c-fcf4-4eae-8e03-c082303f1c06" width=200>
 
- 
 
 ### 로그인 및 회원가입
 
-![ezgif.com-gif-maker-10.gif](TECH!ting%20%E1%84%90%E1%85%A6%E1%84%8F%E1%85%B5%E1%86%BA%E1%84%90%E1%85%B5%E1%86%BC%20%E1%84%89%E1%85%A9%E1%84%87%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%A2%E1%86%B8%20md%20eae26cd5022242c182909de0739a1488/ezgif.com-gif-maker-10.gif)
-
-
+<img src="https://github.com/chasomin/TECH-ting/assets/114223423/2739f223-e89d-4242-981e-e5848483529d" width=200>
 
 
 ---
-
-## 유민영 강사님 앱 실행 가이드
-```
-1. main 브랜치에서 zip 파일을 다운로드 받아주세요.
-2. iPhone Pro 14, Portrait Mode, Light Mode 환경에서 실행을 요청드립니다.
-3. 해당 앱은 세미나 정보를 확인하기 위한 별도의 로그인 절차가 강제되지 않습니다.
-4. 다만, 원하는 세미나를 신청하기 위해 마이 테킷 탭에서 회원가입 및 로그인 절차를 진행해주세요.
-```
 
 ## ADS 및 페르소나
 ```
@@ -110,4 +105,3 @@ Hoxy.. 세미나에서 여러 사람들 앞에서 손 들고 질문하기 부끄
 관심 있는 세미나가 있다면, 정보를 확인한 후 [신청하기] 버튼을 눌러주세요. (해당 기능은 로그인한 사용자에게만 제공됩니다.)
 ```
 
-## 참여자
